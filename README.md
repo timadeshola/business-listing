@@ -31,6 +31,15 @@ Delete business
 View all businesses
 View business by business name
 
+
+Business Category Module
+
+Add category
+Update category
+Delete category
+View all categories
+View category by category name
+
 Contact Management Module
 This module is meant for managing contacts for the businesses.
 * Address Sub-Module
