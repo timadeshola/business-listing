@@ -40,13 +40,6 @@ Delete category
 View all categories
 View category by category name
 
-Contact Management Module
-This module is meant for managing contacts for the businesses.
-* Address Sub-Module
- - State
- - Country
-
-
 Roles: 
 S/N	    Role	    Access Control      Description
 
@@ -71,8 +64,9 @@ This application is also hosted on Heroku.
 See link here https://business-listing-api.herokuapp.com/swagger-ui
 
 * Login Credential on Heroku
-username: timadeshola
-password: Password@123
+
+* [username: timadeshola]
+* [password: Password@123]
 
 This application implement the following features:
 
